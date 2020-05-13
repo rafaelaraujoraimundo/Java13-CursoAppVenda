@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.4
+Created-By: 13.0.2+8 (Oracle Corporation)
+Codebase: C:\Users\rafael.araujo\Google Drive\WorkSpaces\Java13\br.org
+ .prosaude.vendas\dist
+Application-Library-Allowable-Codebase: C:\Users\rafael.araujo\Google 
+ Drive\WorkSpaces\Java13\br.org.prosaude.vendas\dist
+Caller-Allowable-Codebase: C:\Users\rafael.araujo\Google Drive\WorkSpa
+ ces\Java13\br.org.prosaude.vendas\dist
+Permissions: all-permissions
+Application-Name: br.org.prosaude.vendas
+
